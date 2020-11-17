@@ -1,6 +1,6 @@
 # Very Good Site with Python Exercises
-These are the solutions I coded in python for exercises that you can find at
-[this site](http://www.codeabbey.com/)
+These are the solutions I coded in python for the exercises that you can find 
+[here](http://www.codeabbey.com/)
 ## Solutions
 [Solutions](https://github.com/joisaac/exercises-python-solutions/blob/main/exercises-1-to-19.py) to exercises from 1 to 19
 ## **Problem descriptions:**
