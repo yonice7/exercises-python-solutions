@@ -92,4 +92,16 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 Using two printers working together that print at different speeds, determine the shortest amount of time required to print a document. Note: All pages have to be completely printed. 2 printers printing at 1 page per second make 5 pages in 3 seconds, not 2.5 seconds.
 <br/>
 <br/>
+**Problem 23: Bubble in Array**
+Swap values in an array of numbers so that if a number is greater than the one before it their places are switched. Then display the amount of swaps made and the checksum of the final solution.
+<br/>
+<br/>
+**Problem 24: Neumanns' Random Generator**
+You will be given initial numbers for several sequences. For each of them report the number of iterations needed to come to repetition using Neumann's Random Generator. 
+<br/>
+<br/>
+### Help
+Since this is my second approach to problem solving with python I gotta say that I'm receiving tons of help from [this reppository](https://github.com/ValeWasTaken/CodeAbbey_Solutions) by [@ValeWasTaken](https://github.com/ValeWasTaken) if you are a self-taught programmer and you are just starting in this world, no matter how much time you dedicate into studying, there are going to be problems that you won't know how to solve. That's why I think we need help from more experienced and talented people. We should't condemn newbies to solve every single problem on their own just because "that's how you really learn". It's still a long way to go before I consider myself good at Python, but if I would just solve problems on my own, I would still be solving very simple ones with no improvement whatsover. Needless to mention that I try to solve every single problem on my own, but when I'm really stucked, and we're talking about hours without any idea on what to do, that's when I look for help. Those were my two cents.  
+<br/>
+<br/>
 If you have any comment, suggestion or feedback, feel free to reach out.
