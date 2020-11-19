@@ -2,7 +2,8 @@
 These are the solutions I coded in python for the exercises that you can find 
 [here](http://www.codeabbey.com/)
 ## Solutions
-[Solutions](https://github.com/joisaac/exercises-python-solutions/blob/main/exercises-1-to-19.py) to exercises from 1 to 19
+[Solutions](https://github.com/joisaac/exercises-python-solutions/blob/main/exercises-1-to-19.py) to exercises from 1 to 19<br/>
+There are some exercises I haven't solved yet.
 ## **Problem descriptions:**
 **Problem 1: Sum "A+B"**
 You are to add two numbers and tell their sum.
